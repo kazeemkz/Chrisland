@@ -1,0 +1,10 @@
+C:\Project\Silverdaleschoolslagos\SilverDaleSchools\silverdale\SilverDaleSchools.Model\bin\Release\SilverDaleSchools.Model.dll
+C:\Project\Silverdaleschoolslagos\SilverDaleSchools\silverdale\SilverDaleSchools.Model\bin\Release\SilverDaleSchools.Model.pdb
+C:\Project\Silverdaleschoolslagos\SilverDaleSchools\silverdale\SilverDaleSchools.Model\bin\Release\log4net.dll
+C:\Project\Silverdaleschoolslagos\SilverDaleSchools\silverdale\SilverDaleSchools.Model\bin\Release\Remotion.Data.Linq.dll
+C:\Project\Silverdaleschoolslagos\SilverDaleSchools\silverdale\SilverDaleSchools.Model\bin\Release\Remotion.dll
+C:\Project\Silverdaleschoolslagos\SilverDaleSchools\silverdale\SilverDaleSchools.Model\bin\Release\Remotion.Interfaces.dll
+C:\Project\Silverdaleschoolslagos\SilverDaleSchools\silverdale\SilverDaleSchools.Model\bin\Release\System.Web.Mvc.dll
+C:\Project\Silverdaleschoolslagos\SilverDaleSchools\silverdale\SilverDaleSchools.Model\obj\Release\SilverDaleSchools.Model.csprojResolveAssemblyReference.cache
+C:\Project\Silverdaleschoolslagos\SilverDaleSchools\silverdale\SilverDaleSchools.Model\obj\Release\SilverDaleSchools.Model.dll
+C:\Project\Silverdaleschoolslagos\SilverDaleSchools\silverdale\SilverDaleSchools.Model\obj\Release\SilverDaleSchools.Model.pdb
